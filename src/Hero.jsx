@@ -1,8 +1,8 @@
 import React from 'react'
 import './index.css';
-import logo1 from '../logos/amazon.png';
-import logo2 from '../logos/flipkart.png';
-import logo3 from '../logos/shoe_image.png';
+import logo1 from '../Logos/amazon.png';
+import logo2 from '../Logos/flipkart.png';
+import logo3 from '../Logos/shoe_image.png';
 function Hero() {
   return (
     <div className='hero'>
